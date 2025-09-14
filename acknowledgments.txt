@@ -1,0 +1,16 @@
+Acknowledgments
+==========================
+
+People & Discussions
+Ramsha Asad
+
+
+Data Sources
+- strawberry-prices.tsv (provided in course GitHub: dx704-project-02)
+
+Generative AI Usage
+- I used ChatGPT (GPT-5 Thinking) to help draft/refine code cells for Parts 1–5 (feature design, OLS setup, profit calc, file outputs).
+- I reviewed and verified all outputs and made final decisions on methodology.
+
+Notes
+-none'.
